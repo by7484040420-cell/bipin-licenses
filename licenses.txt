@@ -1,0 +1,8 @@
+#BIPIN-LICENSES
+# Har line me:  DEVICE_ID   EXPIRY(saal-mahina-din ghanta:minute, India time)   NAAM
+# Kabhi band na ho to expiry ki jagah NEVER likho.
+# Sirf date likhoge (jaise 2026-10-10) to us din raat 23:59 tak chalega.
+#
+# Misaal:
+# A1B2C3D4E5F6 2026-10-10 18:30 Ravi
+# 0F9E8D7C6B5A NEVER Mera phone
