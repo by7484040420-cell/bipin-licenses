@@ -1,6 +1,6 @@
 #BIPIN-UPDATE
 VERSION_CODE=3
-VERSION_NAME=1.2
-MIN_VERSION=1
+VERSION_NAME=1.3
+MIN_VERSION=3
 URL=https://github.com/by7484040420-cell/bipin-licenses/releases/download/v1.2/app-debug.apk
 NOTES=Naya kya hai | Speed behtar | Bug fix
