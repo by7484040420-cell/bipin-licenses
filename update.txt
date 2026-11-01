@@ -2,5 +2,5 @@
 VERSION_CODE=2
 VERSION_NAME=1.1
 MIN_VERSION=1
-URL=https://yahan-apna-apk-download-link-daalo.com/app.apk
+URL=https://github.com/by7484040420-cell/bipin-licenses/raw/main/app-debug.apk
 NOTES=Naya kya hai | Speed behtar | Bug fix
