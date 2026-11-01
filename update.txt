@@ -1,0 +1,6 @@
+#BIPIN-UPDATE
+VERSION_CODE=2
+VERSION_NAME=1.1
+MIN_VERSION=1
+URL=https://yahan-apna-apk-download-link-daalo.com/app.apk
+NOTES=Naya kya hai | Speed behtar | Bug fix
